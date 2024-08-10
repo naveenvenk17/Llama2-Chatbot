@@ -26,3 +26,11 @@ To use the bot, you can follow these steps:
 4. If sources are found, they will be provided alongside the answer.
 
 5. The bot can be customized to return specific information based on the query and context provided.
+
+
+# Example
+
+In the following example, the model was trained on Budget Speech 2024-25. Model was able to answer relevant questions, 
+Model has high hallucinations. 
+
+
