@@ -7,13 +7,14 @@ The Llama2 Bot is a powerful tool designed to provide information by answering u
 
 ## Prerequisites
 
-- Python 3.6 or higher
-- Required Python packages (you can install them using pip):
+- Python
+- Required Python packages :
     - langchain
     - chainlit
     - sentence-transformers
     - faiss
     - PyPDF2 (for PDF document loading)
+    - check requirements.txt
 
 To use the bot, you can follow these steps:
 
