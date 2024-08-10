@@ -31,7 +31,7 @@ To use the bot, you can follow these steps:
 
 # Example
 
-In the following example, the model was trained on Budget Speech 2024-25. Model was able to answer relevant questions, 
-Model has high hallucinations. 
+In the following example, the model was trained on Budget Speech 2024-25. Model was able to answer relevant questions.
 
+![image](https://github.com/user-attachments/assets/68e22fab-593f-4156-8306-f81a91bf17be)
 
